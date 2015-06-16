@@ -1,6 +1,6 @@
-http://xmovies8.co/movie/originals-season-02-2014/?part_id=338#watch-movie
-
-
+---
+output: html_document
+---
 # Analysis of impact, both economic as victims, of different weather events in the USA based on the NOAA Storm Database
 
 By TEMITOPE FOWOWE (phowops@gmail.com)
